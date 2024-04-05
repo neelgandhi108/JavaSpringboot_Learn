@@ -5,6 +5,8 @@
 
 This application is a full stack web application that integrates Spring Boot for the backend API and React.js for the frontend. It aims to provide a seamless integration of these technologies to deliver a robust and scalable web application.
 
+This project was greatly influenced by the guidance and tutorials provided by Amigoscode. Their clear and comprehensive resources were instrumental in the development and success of this project.
+
 ## Software Architecture Description
 
 -   **Spring Boot Backend API**: Provides RESTful web services and handles business logic.
