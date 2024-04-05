@@ -55,3 +55,5 @@ S
 #src/frontend/src/reportWebVitals.js,3\3\33b50a0bb8850fd2fceccbcd3b91e74863a97f08
 U
 %src/frontend/src/StudentDrawerForm.js,b\f\bffed1aeeba64306888f0f45d6c3439342543b90
+T
+$elasticbeanstalk/docker-compose.yaml,1\7\174e1ac6b3e574204eab0ecdd31ea0a5879613eb
